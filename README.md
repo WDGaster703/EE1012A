@@ -13,7 +13,7 @@
 ![实验](https://img.shields.io/badge/%E5%AE%9E%E9%AA%8C-purple)
 
 ![成绩构成](https://img.shields.io/badge/%E6%88%90%E7%BB%A9%E6%9E%84%E6%88%90-gold)
-![实验100%](https://img.shields.io/badge/%E4%BD%9C%E4%B8%9A-100%25-wheat)
+![实验100%](https://img.shields.io/badge/%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A-100%25-wheat)
 
 ## 授课教师
 - 教师1：姜老师
